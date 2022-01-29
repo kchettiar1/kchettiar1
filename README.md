@@ -1,4 +1,4 @@
-👋 Hi there, I’m Krishnan Chettiar.
+👋 Hi there, I’m KC.
   
 I’m interested in designing user interfaces and coding digital experiences. 
 
