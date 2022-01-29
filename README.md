@@ -2,9 +2,8 @@
   
 I’m interested in designing user interfaces and coding digital experiences. 
 
-I’m currently working my way through HTML, CSS, and vanilla JS. Going forward I will be looking at designing and creating components/modules that contribute to web applications. Whether that is in FinTech, Edtech or something else, is TBD. 
-
-You can connect with me  on twitter @kchettiar1.
+I’m currently working my way through HTML, CSS, and vanilla JS. 
+You can connect with me  on [Twitter](https://twitter.com/kchettiar1).
 
 Have a good one and happy coding.
 
