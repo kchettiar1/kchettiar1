@@ -2,7 +2,7 @@
 
 ### 👨🏾‍💻 Krishnan Chettiar (*KC*)
 
-Hi 👋, I'm KC a coding newbie learning the ways of Frontend Web Development based out of Oxford in the 🇬🇧.
+Hi 👋, I'm KC, a coding newbie learning the ways of Frontend Web Development based out of Oxford in the 🇬🇧.
 
  I am currently building up my coding skillset and looking for my next frontend coding gig.
 
