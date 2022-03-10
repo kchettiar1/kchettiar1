@@ -1,14 +1,16 @@
 <!-- [![Header](https://media-exp1.licdn.com/dms/image/C4E16AQHpER4hEJGZFg/profile-displaybackgroundimage-shrink_350_1400/0/1622392375763?e=1646870400&v=beta&t=deOdwEUd8Rv8uQ7g2IlQYffffYbU0KzU9zzqNhwG0bo "Link to Krishnan Chettiar Portfolio")](https://kchettiar.com) -->
 
-### 👨🏾‍💻 Krishnan Chettiar (*KC*)
+[![Header](assets/Twitter.png)](https://kchettiar.com)
+
+### 👨🏾‍💻 Krishnan Chettiar (_KC_)
 
 Hi 👋, I'm KC, a coding newbie learning the ways of Frontend Web Development based out of Oxford in the 🇬🇧.
 
- I am currently building up my coding skillset and looking for my next frontend coding gig.
+I am currently building up my coding skillset and looking for my next frontend coding gig.
 
 I love design and code so working as a Frontend developer is a way for me to combine my passion with my job. I enjoy it, because it gives me a chance to dabble in so many different technologies.
 
- Currently working in the trenches of vanilla Javascript.
+Currently working in the trenches of vanilla Javascript.
 
 ---
 
@@ -18,9 +20,9 @@ I love design and code so working as a Frontend developer is a way for me to com
 
 ---
 
-### 💻  Languages and Tools I use
+### 💻 Languages and Tools I use
 
-![HTMl5](https://img.shields.io/badge/HTML5-DB4D25?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-126EB1?style=for-the-badge&logo=css3&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-BF4080?style=for-the-badge&logo=sass&logoColor=white) ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
+![HTMl5](https://img.shields.io/badge/HTML5-DB4D25?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-126EB1?style=for-the-badge&logo=css3&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-BF4080?style=for-the-badge&logo=sass&logoColor=white) ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![GitHub](https://img.shields.io/badge/GitHub-24292E?style=for-the-badge&logo=github&logoColor=white) ![FIGMA](https://img.shields.io/badge/FIGMA-5452FF?style=for-the-badge&logo=figma&logoColor=white) ![VS CODE](https://img.shields.io/badge/VS%20Code-005BA4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ### Frameworks I will be learning
