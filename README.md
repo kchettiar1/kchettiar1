@@ -41,6 +41,6 @@ Currently working in the trenches of vanilla Javascript.
 
 ### You can find me on here
 
-[![Twitter](https://img.shields.io/badge/@kchettiar-188CD8?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/kchettiar1) [![Dribble](https://img.shields.io/badge/@kchettiar-E4405F?style=for-the-badge&logo=dribbble&logoColor=white)](https://www.dribbble.com/kchettiar1)
+[![Twitter](https://img.shields.io/badge/@codingkc-188CD8?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/codingkc) [![Dribble](https://img.shields.io/badge/@codingkc-E4405F?style=for-the-badge&logo=dribbble&logoColor=white)](https://www.dribbble.com/codingkc)
 
 ---
