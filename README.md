@@ -4,11 +4,12 @@
 
 ### 👨🏾‍💻 Krishnan Chettiar (_KC_)
 
-Hi 👋, I'm KC, and I'm learning the ways of UI Design andn Frontend Web Development. I'm based out of Oxford in the 🇬🇧.
+Hi 👋, I'm KC, and I'm learning the ways of UI Design and Frontend Web Development. I'm based out of Oxford in the 🇬🇧.
 
-Currently I'm dabbling with vanilla Javascript. I also build scale-model planes.
+Currently I'm dabbling with vanilla Javascript & I also build scale-model planes in my spare time.
 
-*As for the really important stuff in life - I'm a dad!*
+**As for the really important stuff in life - I'm a dad!**
+
 Oh and P.S. I also like these ⚽️ 🏈 🏉 🏏 🏎
 
 ---
