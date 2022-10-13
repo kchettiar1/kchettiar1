@@ -4,13 +4,12 @@
 
 ### 👨🏾‍💻 Krishnan Chettiar (_KC_)
 
-Hi 👋, I'm KC, a coding newbie learning the ways of Frontend Web Development based out of Oxford in the 🇬🇧.
+Hi 👋, I'm KC, and I'm learning the ways of UI Design andn Frontend Web Development. I'm based out of Oxford in the 🇬🇧.
 
-I am currently building up my coding skillset and looking for my next frontend coding gig.
+Currently I'm dabbling with vanilla Javascript. I also build scale-model planes.
 
-I love design and code so working as a Frontend developer is a way for me to combine my passion with my job. I enjoy it, because it gives me a chance to dabble in so many different technologies.
-
-Currently working in the trenches of vanilla Javascript.
+*As for the really important stuff in life - I'm a dad!*
+Oh and P.S. I also like these ⚽️ 🏈 🏉 🏏 🏎
 
 ---
 
