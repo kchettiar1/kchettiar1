@@ -4,13 +4,13 @@
 
 ### 👨🏾‍💻 Krishnan Chettiar (_KC_)
 
-Hi 👋, I'm KC, and I'm learning the ways of UI Design and Frontend Web Development. I'm based out of Oxford in the 🇬🇧.
+Hi 👋 I’m KC. I tinker with all things tech, with a soft spot for UI design and building solutions that genuinely help their users. I’m currently a tech lead based in Oxford 🇬🇧.
 
-Currently I'm dabbling with vanilla Javascript & I also build scale-model planes in my spare time.
+Outside of work, I build scale‑model planes for fun.
 
-**As for the really important stuff in life - I'm a dad!**
+**Most importantly — I’m a dad.**
 
-Oh and P.S. I also like these ⚽️ 🏈 🏉 🏏 🏎
+And for the record, I’m also into these: ⚽️ 🏈 🏉 🏏 🏎
 
 ---
 
@@ -36,11 +36,5 @@ Oh and P.S. I also like these ⚽️ 🏈 🏉 🏏 🏎
 - ✈️ building scale aircraft models.
 - 📸 enjoying photography.
 - ☕️ drinking tea and eating cake.
-
----
-
-### You can find me on here
-
-[![Twitter](https://img.shields.io/badge/@codingkc-188CD8?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/codingkc) [![Dribble](https://img.shields.io/badge/@codingkc-E4405F?style=for-the-badge&logo=dribbble&logoColor=white)](https://www.dribbble.com/codingkc)
 
 ---
